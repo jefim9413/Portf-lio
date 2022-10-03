@@ -44,9 +44,11 @@ const Timeline = () => {
 
   return (
     <Section id="about">
-      <SectionTitle>About Me</SectionTitle>
+      <SectionTitle>Sobre mim</SectionTitle>
       <SectionText>
-      The purpose of JavaScript Mastery is to help aspiring and established developers to take their development skills to the next level and build awesome apps.
+      Me chamou Jefferson Marques, atualmente estou cursando ciências da computação pela universidade federal do ceara, sou apaixonado por tecnologia, sempre busco ficar por dentro de novas tecnologia e novas práticas. Atualmente estou focando em meus estudos, porém estou aberto a novas oportunidades de emprego.
+
+
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
