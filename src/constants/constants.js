@@ -41,6 +41,6 @@ export const TimeLineData = [
   { year: 2018, text: 'Inicie meus estudos com foco em tecnologia'},
   { year: 2019, text: 'Foquei em desenvolvimento web ', },
   { year: 2020, text: 'Fiz alguns cursos focado em back-end ', },
-  { year: 2021, text: 'fim meu primeiro projeto em equipe', },
-  { year: 2022, text: 'foquei um pouco mais no front-end', },
+  { year: 2021, text: 'Fim meu primeiro projeto em equipe', },
+  { year: 2022, text: 'Foquei um pouco mais no front-end', },
 ];

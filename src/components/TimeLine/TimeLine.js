@@ -46,9 +46,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>Sobre mim</SectionTitle>
       <SectionText>
-      Me chamou Jefferson Marques, atualmente estou cursando ciências da computação pela universidade federal do ceara, sou apaixonado por tecnologia, sempre busco ficar por dentro de novas tecnologia e novas práticas. Atualmente estou focando em meus estudos, porém estou aberto a novas oportunidades de emprego.
-
-
+      Me chamou Jefferson Marques, atualmente estou cursando ciências da computação pela Universidade Federal do Ceará, sou apaixonado por tecnologia, sempre busco ficar por dentro de novas tecnologia e novas práticas. 
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
